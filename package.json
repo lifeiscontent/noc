@@ -1,0 +1,14 @@
+{
+  "name": "noc",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Aaron Reisman",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "2.0.0-beta.1"
+  },
+  "scripts": {
+    "start": "yarn parcel index.html",
+    "build": "yarn parcel build index.html"
+  }
+}
