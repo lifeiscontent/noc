@@ -9,6 +9,6 @@
   },
   "scripts": {
     "start": "yarn parcel index.html",
-    "build": "yarn parcel build index.html"
+    "build": "yarn parcel build index.html --public-url /noc/"
   }
 }
